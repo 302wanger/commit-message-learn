@@ -8,3 +8,4 @@
 8. new chore 
 9. new add 
 10. new change 
+11. new delete 
